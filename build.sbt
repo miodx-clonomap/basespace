@@ -1,5 +1,5 @@
 name := "basespace"
-organization := "clonomap"
+organization := "com.miodx.common"
 version := "0.4.0"
 description := "basespace project"
 
