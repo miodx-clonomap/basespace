@@ -1,5 +1,6 @@
 name := "basespace"
-organization := "era7bio"
+organization := "com.miodx.common"
+version := "0.4.0"
 description := "basespace project"
 
 bucketSuffix := "era7.com"
