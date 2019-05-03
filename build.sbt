@@ -1,5 +1,6 @@
 name          := "basespace"
-organization  := "era7bio"
+organization  := "com.miodx.clonomap"
+version       := "0.0.2-1"
 description   := "basespace project"
 
 bucketSuffix  := "era7.com"
@@ -9,7 +10,7 @@ scalaVersion  := "2.11.11"
 val playVersion  = "2.5.12"
 
 libraryDependencies ++= Seq(
-  "org.scalatest"     %% "scalatest" % "3.0.4" % "test",
+  "org.scalatest"     %% "scalatest" % "3.0.5" % "test",
   "com.typesafe.play" %% "play-ws"   % playVersion,
 )
 
